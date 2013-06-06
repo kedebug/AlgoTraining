@@ -1,4 +1,8 @@
 algorithm
 =========
 
-Iearning algorithm for great good
+POJ.ORG
+ACM.HDU.EDU.CN
+UVA.ONLINEJUDGE.ORG
+
+
