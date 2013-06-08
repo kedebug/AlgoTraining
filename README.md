@@ -2,7 +2,7 @@ algorithm
 =========
 
 Learning algorithm for great good!
-
+-
 My solutions to
 
 - POJ.ORG
