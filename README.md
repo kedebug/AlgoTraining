@@ -5,8 +5,8 @@ Learning algorithm for great good!
 
 My solutions to
 
- -POJ.ORG
- -ACM.HDU.EDU.CN
- -UVA.ONLINEJUDGE.ORG
+<li>POJ.ORG</li>
+<li>ACM.HDU.EDU.CN</li>
+<li>UVA.ONLINEJUDGE.ORG</li>
 
 
