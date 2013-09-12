@@ -1,11 +1,9 @@
-algorithms
-============
 
-Learning algorithm for great good!
+### Learning algorithm for great good!
 
 My solutions to
 
-- POJ.ORG
-- ACM.HDU.EDU.CN
-- UVA.ONLINEJUDGE.ORG
+- poj.org
+- acm.hdu.edu.cn
+- uva.onlinejudge.org
 
