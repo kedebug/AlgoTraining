@@ -1,4 +1,4 @@
-## Compute the sum of elements in after nth iteration - Amazon
+### Compute the sum of elements in after nth iteration - Amazon
 ```
 Problem
 Find the sum of elements in after nth iteration for below operation on array. 
